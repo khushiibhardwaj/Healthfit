@@ -10,19 +10,18 @@ You can access the webapp through the link : http://192.168.1.8:3000/FIT-GAME/te
 
 
 ### Problem Statement
-- Children nowadays are constantly engrossed in video games and usually, they use their phones for the same which impacts their health negatively.Just sitting in one place and playing games for a long time restricts the physical movement of people and makes them lethargic as well. Often this leads to some adverse consequences such as weakening of muscles and thus proves to be a poor resort to enjoyment.
-- People nowadays have terribly hectic schedules, they don’t have time to go to the gym. Physical Inactivity can lead to both physical as well as mental diseases.
+- These days, kids are always playing video games and frequently use their phones for the same purpose, which is bad for their health. Playing games and sitting still for extended periods of time limits people's physical mobility and makes them sluggish. This frequently has negative effects including weakening of the muscles, making it a bad choice for enjoyment.
+- These days, people's schedules are so busy that they don't have time to visit the gym. Both mental and physical illnesses can result from physical inactivity.
 
 ### Objective and Solution
 
-We have planned to create a gamified fitness platform in order to help the user enjoy games and maintain good health at the same time. Our project idea is to provide a fitness experience that is gamified. We will mainly implement our project in python using machine learning. The game would require users to run and jump as well as do physical exercises in real life in order for their avatar in the game to imitate the motion and move on the screen. To motivate the users, we are planning to give rewards on multiple levels. For example, every n number of situps will be rewarded with a prize or we can even activate the lives to play the game only after the user performs some fitness moves. So, the overall motive is to combine fitness with fun.
+To assist users enjoy games and be healthy at the same time, we intend to develop a gamified fitness platform. Our project idea is to offer a gamified workout experience. Our project will primarily be implemented using machine learning algorithms in Python. To get their avatar to move on the screen and mimic real-life motion, players would need to run, jump, and perform other physical activities. We intend to offer awards at various levels in order to inspire the users. For instance, a prize will be awarded for each n situps, or the player can even be able to unlock the game's life only after completing certain fitness exercises. Therefore, the main goal is to blend enjoyment with fitness.
 
 ### Existing Solutions in the Market
 
-Most of the existing solutions in the market are:
-- Not children friendly and cater only to the needs of Adults
-- Encourage Participation with a leaderboard to compare progress with friends where leaderboards are based on the number of calories burned and not points gained by playing a game.
-- Do not have an option of actual game playing while exercising in real-time and being active.
+- The majority of currently available solutions on the market are unsuitable for youngsters and solely address the demands of adults.
+- In order to compare progress with peers, encourage participation by providing a leaderboard that tracks calories burned rather than game scores.
+- The ability to play games in real time while exercising and staying active is not available.
 
 ### How is this Different
 
@@ -39,9 +38,9 @@ We will create a game to implement our model. We will use Scratch for creating t
 
 ### Implementation
 
-- As soon as the user would enter the platform, he/she will be given some fitness tasks on the completion of which the user would earn some points and unlock the lives to play the game. 
-On entering the game the user will have to move in real life so as to have the avatar imitate the user on the screen. The user's real-time video will be recorded and his/her actions will be recognized through python, machine learning, deep learning, and some libraries like Tensor flow, Open CV, Media pipe. The recognized actions will be converted to actions of the avatar and would be replicated on the screen (in the game).
-- A leader board will be displayed which will motivate users to complete more challenges and earn Fit-Game badges
+- Upon entering the platform, the user will be presented with fitness objectives to do. Upon successful completion, the user will receive points and be able to access the game's lives. 
+To have the avatar on the screen mimic the player, the player must move in real life when they first enter the game. Python, machine learning, deep learning, and certain libraries like Tensor Flow, Open CV, and Media Pipe will be used to record the user's activities in real-time video. The identified actions will be transformed into the avatar's actions and displayed on the screen (in the game).
+- The display of a leader board will encourage players to do more tasks and obtain Fit-Game badges.
 
 ![90623500-d05c-4f05-85ee-60dbf28ee7b1](https://user-images.githubusercontent.com/76937237/141834624-da8a7519-86f7-4cc5-b8b0-418c3a975cb5.gif)
 
@@ -49,9 +48,9 @@ On entering the game the user will have to move in real life so as to have the a
 
 
 ### Future Scope
-- With growing concerns about children's health and the addictive nature of video games, we need a solution that incorporates both enjoyment and health.
-- Following the Covid-19 pandemic, the use of video and mobile games has skyrocketed, wreaking havoc on people's health.
-- So we can confidently state that this application has a bright future ahead of it and a noble goal of getting our children back in shape.
+- We require a solution that balances enjoyment with health, given the increasing worries about kids' health and the addictive qualities of video games.
+- The usage of video and mobile games has increased dramatically since the Covid-19 pandemic, negatively impacting people's health.
+- As a result, we can declare with confidence that this application has a bright future and the admirable objective of helping our kids get back in shape.
 
 
 ![Untitled design](https://user-images.githubusercontent.com/75574159/141607104-18671f83-67cb-4307-ac2e-c19e18099e31.jpg)
